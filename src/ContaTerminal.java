@@ -1,8 +1,5 @@
 public class ContaTerminal {
-    int Numero;
-    String Agencia;
-    String NomeCliente;
-    float aldo;
-
-
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
 }
